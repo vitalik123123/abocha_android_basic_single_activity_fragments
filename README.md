@@ -11,7 +11,7 @@ Part 2
 Создать кастомную вьюгруппу, которая будет работать как Column, но располагать все элементы по диагонали. Создать для этой фукнции функцию Preview,
 чтобы можно было смотреть на результат.
 
-<img src="https://github.com/jumpstreet13/abocha_android_basic_single_activity_fragments/blob/main/captures/custom_view.png" width="250" height="420" />
+<img src="https://github.com/jumpstreet13/abocha_android_basic_single_activity_fragments/blob/main/captures/custom_view.png" width="550" height="420" />
 
 
 
